@@ -1,8 +1,6 @@
-/* 
-	petals.cpp
-	MSVC, ISO C++20
-	growing and rotating petals - use full screen for best effect
-*/
+// petals.cpp
+// MSVC, ISO C++20
+// growing and rotating petals - run in full screen for best effect
 
 #include "pch.h"
 const float pi2 = 2 * M_PI;
